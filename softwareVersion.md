@@ -19,7 +19,7 @@ v16.20.1
 @jbates11 ➜ /workspaces/RoR-Test1 (main) $ sqlite3 --version
 3.34.1 2021-01-20 14:10:07 10e20c0b43500cfb9bbc0eaa061c57514f715d87238f4d835880cd846b9ealt1
 
-@jbates11 ➜ /workspaces/RoR-Test1 (main) $ convert --version
+@jbates11 ➜ /workspaces/RoR-Test1 (main) $ convert --version  
 Version: ImageMagick 6.9.11-60 Q16 x86_64 2021-01-25 https://imagemagick.org
 Copyright: (C) 1999-2021 ImageMagick Studio LLC
 License: https://imagemagick.org/script/license.php
